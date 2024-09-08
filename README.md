@@ -15,7 +15,10 @@ Welcome to the Palindrome Checker GUI application! This Python application allow
 - **Multi-Line Input**: Allows long strings to be entered.
 - **Theme Switching**: Toggle between light and dark themes for a comfortable viewing experience.
 - **Exit Button**: Easily close the application from the GUI.
+---
+![gif](lv_0_20240908154909.gif)
 
+---
 ## Installation 🛠️
 
 1. **Ensure Python is Installed**: This application requires Python 3.6 or later. Download and install Python from [python.org](https://www.python.org/).
